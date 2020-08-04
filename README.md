@@ -15,3 +15,5 @@ While there was some element of luck involved in surviving, it seems some groups
 In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
 ### My accuracy was 76.056 %  using Logistic Regression.
+### Total teams : 21445
+### My Rank     : 14627
